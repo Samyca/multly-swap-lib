@@ -1,7 +1,7 @@
 {
   "name": "@samyca/multly-swap-lib",
   "version": "0.0.4",
-  "description": "Multly Lib",
+  "description": "Multly Swap Lib",
   "files": [
     "contracts",
     "!contracts/test"
